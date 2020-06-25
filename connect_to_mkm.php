@@ -13,7 +13,7 @@
     * @var $signatureMethod string Cryptographic hash function used for signing the base string with the signature, always HMAC-SHA1
     * @var version string OAuth version, currently 1.0
     */
-
+   include 'credentials.php';
    /**
     * Gather all parameters that need to be included in the Authorization header and are know yet
     *
