@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<request>
+    <article>
+        <idProduct>10600</idProduct>
+        <idLanguage>1</idLanguage>
+        <comments>Inserted through the API</comments>
+        <count>1</count>
+        <price>40000</price>
+        <condition>EX</condition>
+        <isFoil>true</isFoil>
+        <isSigned>false</isSigned>
+        <isPlayset>false</isPlayset>
+    </article>
+</request>
